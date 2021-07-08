@@ -1,1 +1,3 @@
 Este es un archivo sobre las estrellas!
+Voy a nombrar una estrellita del cielo...se llamará git-star!
+Esta línea es solo para ver qué pasa con los cambios...
