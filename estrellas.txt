@@ -1,3 +1,9 @@
-Este es un archivo sobre las estrellas!
-Voy a nombrar una estrellita del cielo...se llamará git-star!
-Esta línea es solo para ver qué pasa con los cambios...
+
+Este es un archivo sobre las estrellas! Voy a nombrar una estrellita del cielo...se llamará git-star!
+
+Cambios, cambios, estos son cambios en el archivo.
+
+En el cielo las estrellas,
+En el campo las espinas,
+Y en el medio de mi pecho
+Está mi dulce Carolina :v
